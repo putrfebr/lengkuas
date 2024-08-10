@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Lengkuas",
+        "scientificName": "Alpinia Galanga",
+        "image": "img/lengkuas.jpg",
+        "otherNames": "Laos, galangal",
+        "benefits": [
+            "Lengkuas memiliki sifat antimikroba dan anti-inflamasi.",
+            "Dapat membantu mengatasi gangguan pencernaan, mencegah infeksi, dan meredakan peradangan."
+        ],
+        "uses": [
+            "Lengkuas biasa digunakan sebagai bumbu dalam masakan tradisional seperti rendang, soto, dan pepes.",
+            "Juga sering digunakan dalam ramuan obat tradisional."
+        ]
+    }
+]
